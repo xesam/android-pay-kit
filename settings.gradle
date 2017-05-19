@@ -1,0 +1,1 @@
+include ':app-pay', ':lib-pay-core', ':lib-pay-weixin', ':lib-pay-alipay'
